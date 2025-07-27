@@ -1,0 +1,15 @@
+
+
+IMG_SIZE = 224
+BATCH_SIZE = 32
+NUM_WORKERS = 4
+NUM_EPOCHS = 10
+
+RAMDOM_SEED = 42
+
+
+DATA_DIR = 'dataset'
+METADATA_PATH = 'Data_Entry_2017.csv'
+
+OUTPUT_DIR = 'output'
+
